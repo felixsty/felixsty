@@ -20,12 +20,12 @@ Data-driven graduate with strong foundations in **analytics, finance, and busine
 ---
 
 ## Tools
-**Python** (Pandas, NumPy, scikit-learn)  
-**SQL**  
-**Tableau**  
-**Microsoft Excel**   
-**SAS Enterprise Miner**
-**SAS Viya** 
+- Python (Pandas, NumPy, scikit-learn)  
+- SQL 
+- Tableau
+- Microsoft Excel   
+- SAS Enterprise Miner
+- SAS Viya
 
 ---
 
