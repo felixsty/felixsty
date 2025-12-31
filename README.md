@@ -13,7 +13,7 @@ Data-driven graduate with strong foundations in **analytics, finance, and busine
 
 ## Key Skills
 - Statistical Analysis & Data Preprocessing
-- - Data Analysis & Visualisation  
+- Data Analysis & Visualisation  
 - Business Intelligence & Dashboards  
 - Financial Analysis & KPI Reporting  
 
