@@ -1,8 +1,8 @@
 ## Hi, I'm Felix 👋
 
 🎓 BSc (Hons) in Finance, Management & Business Analytics Graduate  
-📊 Aspiring Data Analytics / Business Analytics
+📊 Aspiring Data / Business Analyst
 🌏 Based in Malaysia
 
 ## 🙋 About Me
-I'm a data-driven graduate with strong foundations in **analytics, finance, and business problem-solving**. Experienced in transforming data into actionable insights through **dashboards, KPI reporting, and statistical analysis**. Interested in analytics and consulting roles.
+I’m a data-driven graduate passionate about turning complex data into actionable insights. Experienced in data analysis, dashboards, KPI reporting, and statistical modeling. Interested in analytics, consulting, and business intelligence roles.
